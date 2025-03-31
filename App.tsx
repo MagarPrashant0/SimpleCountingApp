@@ -39,4 +39,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;  // Correct export
+export default App;
